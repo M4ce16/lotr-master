@@ -1,0 +1,28 @@
+{
+  "name": "lotr-master",
+  "version": "1.0.0",
+  "description": "Een training met ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4ce16/lotr-master.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "demo",
+    "lotR"
+  ],
+  "author": "Mika Vos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M4ce16/lotr-master/issues"
+  },
+  "homepage": "https://github.com/M4ce16/lotr-master#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
